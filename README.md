@@ -1,4 +1,4 @@
-This Repository contains the project that I worked on during my internship at <p href ="https://feynnlabs.com">Feynn Labs.</p>
+# This Repository contains the project that I worked on during my internship at Feynn Labs.
 
 ## PROJECT 1 
 IT was a Product Ideation task, we had to come up with a Business Idea which will primarily use Machine Learning & Artificial Intelligence to solve business problems and prepare a report on the abstract prototype/business model.
